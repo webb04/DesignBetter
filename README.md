@@ -13,41 +13,6 @@
 - More animations when transitioning between tabs (e.g. fading images in)
 
 
-
-# InVision Code Challenge
-
-## Sketch File
-
-https://www.dropbox.com/s/fhjb47ti6gyf8av/workflow-enterprise.sketch?dl=1
-
-The images used in the sketch file can be found in the `/public/images/` directory.
-Also note, the desktop and mobile layouts are different sketch pages.
-
-## Summary
-
-For this code challenge, you will create a section of a landing page that displays the offerings from InVision. It will include 3 tabbed sections that automatically switches tabs until the user navigates to a tab on their own. On mobile, it simply provides 3 sections with horizontal scrolling.
-
-## Requirements
-
-- Matches Design
-- Responsive
-- Automatically swaps tabs
-  - Progress bar shows time until swap
-  - Pauses when the links are not in the viewport
-- Clicking a tab link swaps to the tab
-  - This also stops the auto swapping
-- Mobile shows all 3 sections with horizontal scrolling
-
-## Tech Stack
-
-The only requirement here is React. Feel free to use whatever css framework or 3rd party lib to help with the challenge. Internally, we use React@16.3.x, styled-components, and NextJS. The tool should work in the latest version of Chrome, Firefox, Safari, Edge, Internet Explorer, iOS Safari, and Samsung Internet.
-
-
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
-
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
-
 ## Available Scripts
 
 In the project directory, you can run:
