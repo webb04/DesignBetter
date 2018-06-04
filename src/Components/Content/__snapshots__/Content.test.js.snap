@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<section
+  className="sc-bdVaJa rCoSi"
+>
+  <section
+    className="feature sc-bwzfXH drZmNJ"
+  >
+    <img
+      className="sc-htpNat eUYtJk"
+      src="/Images/cloud/prototyping.png"
+    />
+    <div
+      className="sc-bxivhb kWEhey"
+    >
+      Design Tool
+    </div>
+    <div
+      className="sc-ifAKCX hhjABF"
+    >
+      Share every design
+    </div>
+  </section>
+  <section
+    className="feature sc-bwzfXH drZmNJ"
+  >
+    <img
+      className="sc-htpNat eUYtJk"
+      src="/Images/cloud/prototyping.png"
+    />
+    <div
+      className="sc-bxivhb kWEhey"
+    >
+      Design Tool
+    </div>
+    <div
+      className="sc-ifAKCX hhjABF"
+    >
+      Share every design
+    </div>
+  </section>
+</section>
+`;

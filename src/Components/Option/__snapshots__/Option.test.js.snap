@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<button
+  className="sc-bdVaJa bIgjLa"
+  onClick={[Function]}
+>
+  <h3
+    className="sc-bwzfXH kXBrIV"
+  >
+    Built-in animations
+  </h3>
+  <h4
+    className="sc-htpNat dpENTR"
+  >
+    Show user interactions
+  </h4>
+  <div
+    className="sc-bxivhb kDOLAr"
+  >
+    <div
+      className="bar sc-ifAKCX dxjrqa"
+      selected={true}
+      style={
+        Object {
+          "display": "block",
+          "width": "50%",
+        }
+      }
+    />
+  </div>
+</button>
+`;
