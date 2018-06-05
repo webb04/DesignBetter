@@ -22,7 +22,7 @@ const StyledOption = styled.div`
     display: inline-block;
     box-sizing: border-box;
     text-align: center;
-`
+`;
 
 class Container extends Component {
     constructor(props) {
